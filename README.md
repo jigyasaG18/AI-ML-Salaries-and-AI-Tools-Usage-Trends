@@ -1,4 +1,4 @@
-# 📊 AI Job Market & Student AI Usage Analytics Report (2020–2025)
+# 📊 AI Job Market & Students AI Usage Analytics Report (2020–2025)
 
 ## 📝 Overview
 
